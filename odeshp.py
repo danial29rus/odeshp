@@ -1,11 +1,8 @@
-
 import numpy as np
 import numexpr as ne
-# https://numexpr.readthedocs.io/projects/NumExpr3/en/latest/user_guide.html
 from math import *
 from scipy.integrate import odeint
 import matplotlib.pyplot as plt
-# https://www.mathworks.com/help/matlab/ref/ezplot.html
 import mpmath as mp
 def oderk3():
     def euler(x0, y0, xn, n):
