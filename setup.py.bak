@@ -1,7 +1,7 @@
 from setuptools import setup
 
 setup(name='odeshp',
-      version='5.0',
+      version='0.1',
       description='solve ODE',
       packages=['odeshp'],
       author_email='shpeka4kaps4@mail.ru',

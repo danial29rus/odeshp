@@ -371,4 +371,3 @@ def oderk3():
             started.append(pusher)
         print('----------------------')
 
-print(oderk3.__doc__)
